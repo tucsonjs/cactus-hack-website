@@ -64,6 +64,17 @@ a:focus {
   color: #1d9b6c;
 }
 
+blockquote {
+  border: none;
+  font-style: italic;
+}
+
+blockquote .author {
+  display: block;
+  font-style: none;
+  font-size: 0.85em
+}
+
 .light {
   font-weight: 400;
 }
