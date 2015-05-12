@@ -71,7 +71,7 @@ blockquote {
 
 blockquote .author {
   display: block;
-  font-style: none;
+  font-style: normal;
   font-size: 0.85em
 }
 
