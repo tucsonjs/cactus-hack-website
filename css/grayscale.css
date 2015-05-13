@@ -31,7 +31,7 @@ h6 {
 }
 
 p {
-  margin: 0 0 25px;
+  margin: 0;
   line-height: 1.5;
 }
 
@@ -45,7 +45,6 @@ section {
 
 @media(min-width:768px) {
   p {
-    margin: 0 0 35px;
     font-size: 20px;
     line-height: 1.6;
   }
@@ -181,6 +180,11 @@ blockquote .author {
   font-size: 18px;
 }
 
+.intro .intro-body img {
+  width: 250px;
+  margin: 10px 0;
+}
+
 .about {
   background: #339900 url(../img/about-bg.jpg) center center;
 }
@@ -218,6 +222,10 @@ blockquote .author {
 
   .intro .intro-body .intro-text {
     font-size: 26px;
+  }
+
+  .intro .intro-body img {
+    width: 400px;
   }
 }
 
