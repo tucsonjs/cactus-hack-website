@@ -76,6 +76,10 @@ blockquote .author {
   font-size: 0.85em
 }
 
+.row {
+  margin: 0;
+}
+
 .light {
   font-weight: 400;
 }
