@@ -86,9 +86,8 @@ blockquote .author {
 
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px solid rgba(255,255,255,.3);
   text-transform: uppercase;
-  background-color: #000;
+  background-color: #003300;
 }
 
 .navbar-custom .navbar-brand {
@@ -157,8 +156,7 @@ blockquote .author {
 
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    border-bottom: 1px solid rgba(255,255,255,.3);
-    background: #000;
+    background: #003300;
   }
 }
 
@@ -166,7 +164,7 @@ blockquote .author {
   display: table;
   width: 100%;
   height: auto;
-  padding: 20px 0;
+  padding: 80px 0 20px 0;
   text-align: center;
   color: #fff;
   background: #339900 url(../img/intro-bg.jpg) bottom center;
@@ -274,7 +272,7 @@ blockquote .author {
 }
 
 .content-section {
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 .schedule-section {
