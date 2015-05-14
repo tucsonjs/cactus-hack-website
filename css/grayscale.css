@@ -205,6 +205,14 @@ blockquote .author {
   background: #339900 url(../img/venue-bg.jpg) bottom center;
 }
 
+.venue a {
+  color: #FFA347;
+}
+
+.venue a:hover {
+
+}
+
 .register {
   background: #339900 url(../img/register-bg.jpg) bottom center;
 }
